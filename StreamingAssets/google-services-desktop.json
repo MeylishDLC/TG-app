@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637897938387",
+    "project_id": "tg-app-107cf",
+    "storage_bucket": "tg-app-107cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637897938387:android:60eb80a3e1de973c904b26",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.TGclicker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS8yQGn2hRzXEklMq6EFYuHCFUlj2FyYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
